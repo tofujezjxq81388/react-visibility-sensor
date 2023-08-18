@@ -4,11 +4,11 @@
 module.exports = function(config) {
   config.set({
     // base path that will be used to resolve all patterns (eg. files, exclude)
-    basePath: "",
+    basePath: "",撒啊a
 
-    // frameworks to use
-    // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
-    frameworks: ["mocha"],
+    // frameworks to use暗示啊 啊s
+    // available frameworks: https://npmjs.org/browse/keyword/karma-adapter在
+    frameworks: ["mocha"],啊
 
     // list of files / patterns to load in the browser
     files: ["./tests/bundle.js"],
